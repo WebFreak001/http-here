@@ -29,3 +29,7 @@ Add a folder at the left called `http_here` (or whatever you want) and set its d
 Add another folder into the http_here folder and call it exactly `command` and set its default value to `path\to\exe %1`
 
 To uninstall, simply delete the http_here folder in `HKEY_CLASSES_ROOT\Folder\shell` and delete the application folder.
+
+## From the command line
+
+Just call `http_here.exe path\to\website` to run a HTTP Server in an external folder or run `http_here.exe .` to run it in the current working directory.
