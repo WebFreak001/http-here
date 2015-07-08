@@ -33,3 +33,12 @@ To uninstall, simply delete the http_here folder in `HKEY_CLASSES_ROOT\Folder\sh
 ## From the command line
 
 Just call `http_here.exe path\to\website` to run a HTTP Server in an external folder or run `http_here.exe .` to run it in the current working directory.
+
+## TODO
+
+- [ ] Status Bar icon
+- [ ] Config
+- [ ] Support for template languages
+- [ ] Support for piping to nginx/apache
+
+PR welcome
