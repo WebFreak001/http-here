@@ -1,7 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\Folder\shell\http_here]
-@="Simple HTTP Server here"
-
-[HKEY_CLASSES_ROOT\Folder\shell\http_here\command]
-@="C:\\Program Files (x86)\\HTTPHere\\http_here.exe %1"
