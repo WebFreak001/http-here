@@ -1,0 +1,11 @@
+{
+	"name": "http_here",
+	"description": "A simple HTTP here application for context menus in the explorer",
+	"copyright": "Copyright © 2015, WebFreak",
+	"authors": ["WebFreak"],
+	"dependencies":
+	{
+		"vibe-d": "~>0.7.19"
+	},
+	"versions": ["VibeDefaultMain"]
+}
